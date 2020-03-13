@@ -8,5 +8,7 @@ b=23;
 c=123;
 c=a+b+c;//calculation
 System.out.println("The sum of three values are "+c);//printing the output
+int d=c-a;
+System.out.println("The d value is "+d);
 }//closing the main method
 }//closing the class ofthe program
